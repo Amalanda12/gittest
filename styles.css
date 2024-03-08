@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+    margin: 24px;
+    padding-right: 16px;
+}
+h1{
+color: beige;
+text-align: center;
+}
+p{
+    color:black;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+#cup{
+   padding-left: 12px;
+   border-color: black;
+}
